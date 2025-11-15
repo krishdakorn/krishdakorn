@@ -11,9 +11,11 @@ Building practical robotics and AI solutions for industry and accessibility.
 - Web Development (HTML, CSS, JS, PHP, MySQL)
 
 ## 🚀 Projects  
-- **Delta Robot with Vision System** — Cost-efficient industrial robot for automation in the food industry  
+- **Robot with Vision System** — Cost-efficient industrial robot for automation across various industries  
 - **AI-powered Reading Lamp** — Assistive OCR & TTS device for blind and visually impaired users  
-- **Analog Gauge Digitization** — Mobile-based gauge reader with computer vision (DEPA 2024 Digital Coupon Award)
+- **Analog Gauge Digitization** — Mobile-based gauge reader using computer vision
 
 ## 📫 Contact  
-Email: krishdakorn.hinanchai@khonkaendynamics.com
+- Email: [krishdakorn.hinanchai@khonkaendynamics.com](mailto:krishdakorn.hinanchai@khonkaendynamics.com)
+- Website: [www.khonkaendynamics.com](https://www.khonkaendynamics.com)
+- LinkedIn: [Krishdakorn Hinanchai](https://th.linkedin.com/in/krishdakorn-hinanchai-7bb808137)
