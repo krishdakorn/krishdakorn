@@ -30,5 +30,5 @@ Building practical robotics, IoT, and AI automation solutions for industry and a
 **📫 Connect with Me**  
 
 - Email: [kdk@kkd.in.th](mailto:kdk@kkd.in.th)  
-- Website: [kkd.in.th](https://www.kkd.in.th)  
-- LinkedIn: [Krishdakorn Hinanchai](https://www.linkedin.com/in/krishdakorn-hinanchai-7bb808137/)
+- Website: [kkd.in.th](https://www.kkd.in.th)
+- Facebook: [facebook.com/kkd2024th](https://www.facebook.com/kkd2024th)
