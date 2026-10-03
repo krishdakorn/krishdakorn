@@ -1,4 +1,5 @@
-**👋 Hi, I'm Krishdakorn Hinanchai (Pop)  **
+**👋 Hi, I'm Krishdakorn Hinanchai (Pop)**
+
 Founder & Mechatronics Engineer at KhonKaen Dynamics Co., Ltd.  
 Building practical robotics, IoT, and AI automation solutions for industry and accessibility.
 
@@ -16,7 +17,7 @@ Building practical robotics, IoT, and AI automation solutions for industry and a
 
 ---
 
-**🚀 Key Projects  **
+**🚀 Key Projects**
 
 - 🤖 Delta Robot with Machine Vision — High-speed, cost-efficient industrial sorting and automation system powered by computer vision.  
 - 💡 Jai Dee / Un Jai Lamp — Assistive OCR & TTS smart lamp combined with robotic motion for the visually impaired (Social Enterprise project).  
