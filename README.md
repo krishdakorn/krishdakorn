@@ -31,4 +31,3 @@ Building practical robotics, IoT, and AI automation solutions for industry and a
 
 - Email: [kdk@kkd.in.th](mailto:kdk@kkd.in.th)  
 - Website: [kkd.in.th](https://www.kkd.in.th)
-- Facebook: [facebook.com/kkd2024th](https://www.facebook.com/kkd2024th)
